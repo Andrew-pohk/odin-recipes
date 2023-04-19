@@ -1,0 +1,19 @@
+body{
+    margin-top: 125px;
+    background: lightblue;
+}
+.header{
+    box-shadow: 0px 1px 5px black;
+    position: absolute;
+    top: 0px;
+    width: 100vw;
+    left: 0;
+    right: 0;
+}
+#title{
+    text-align: center;
+}
+ul{
+    font-size: 20px;
+    text-align: center;
+}
