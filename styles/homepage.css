@@ -18,7 +18,9 @@ ul{
     font-size: 40px;
 }
 .BoxLinkContainer{
-    margin-left: 41vw;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
 }
 .LinkBox{
     box-shadow: 2px 2px 5px;
